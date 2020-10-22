@@ -1,7 +1,7 @@
 # python ideas
 The repo with useful python patterns that can help in coding , debugging and refactoring
 
-Folders:
+## Folders:
 1. logger: 
     - contains the exemplary configuration of logger class
     - in `logger_tool.py` logger is defined and functions `wrap`, `entering` and `exiting`
